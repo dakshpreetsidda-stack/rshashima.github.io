@@ -12,4 +12,4 @@ This repository contains the self-help ebook website for Shashima Raju.
 - Update the Google Form link in the contact section
 
 ## Live Site
-[https://yourusername.github.io](https://yourusername.github.io)
+[https://rshashima.github.io](https://rshashima.github.io)
